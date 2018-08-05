@@ -1,0 +1,1 @@
+# mediator-projections-example
